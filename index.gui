@@ -1,0 +1,8 @@
+<svg>
+  <text id="status" />
+  <text id="status1"/>
+  <text id="status2"/>
+  <text id="status3"/>
+   <text id="vib-label" class="sensor-label" x="50%" y="30">vibration</text>
+ 
+</svg>

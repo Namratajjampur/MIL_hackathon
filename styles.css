@@ -1,0 +1,84 @@
+/*.background {
+  viewport-fill: #f83c40;
+}*/
+
+/*
+#demotext {
+  fill: black;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}*/
+
+svg{
+  viewport-fill: #f83c40;
+}
+
+#status {
+  viewport-fill: #f83c40;
+  font-size: 20;
+  font-family: System-Regular;
+  font-weight: regular;
+  x: 0;
+  y: 40;
+  width: 100%;
+  height: 100%;
+  fill: white;
+  text-length: 64;
+}
+#status1 {
+  viewport-fill: #f83c40;
+  font-size: 20;
+  font-family: System-Regular;
+  font-weight: regular;
+  x:0;
+  y: 80;
+  width: 100%;
+  height: 100%;
+  fill: white;
+  text-length: 64;
+}
+
+#status2 {
+  viewport-fill: #f83c40;
+  font-size: 20;
+  font-family: System-Regular;
+  font-weight: regular;
+  x:0;
+  y: 120;
+  width: 100%;
+  height: 100%;
+  fill: white;
+  text-length: 64;
+}
+
+#status3 {
+  viewport-fill: #f83c40;
+  font-size: 20;
+  font-family: System-Regular;
+  font-weight: regular;
+  x:0;
+  y: 160;
+  width: 100%;
+  height: 100%;
+  fill: white;
+  text-length: 64;
+}
+
+.sensor-label {
+ font-family: System-Regular;
+ fill: white;
+ text-anchor: middle;
+ text-length: 32;
+ font-size: 20;
+}
+
+.sensor-data {
+ font-family: System-Light;
+ fill: yellow;
+ text-anchor: middle;
+ text-length: 32;
+ font-size: 20;
+}
